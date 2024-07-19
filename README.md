@@ -29,3 +29,5 @@ This PoC is for educational purposes only. Use it at your own risk. The author i
 
 ![PoC](https://github.com/s4orii/PoC-RoundCube-1.6.1-Plugin-RCE/blob/5a3408b8e192fa4945c9260d61faa0a4ae8a2d47/PoC.mp4))
 
+## PoC
+[![](http://markdown-videos-api.jorgenkh.no/youtube/EmNSJb26hMA)](https://youtu.be/EmNSJb26hMA)
